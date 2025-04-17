@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yandex Map</string>
+    <string name="search">Поиск</string>
+    <string name="locations">Локация</string>
+    <string name="remove_locations">Удалить локацию</string>
+    <string name="traffic_jams">Пробки</string>
+    <string name="information_about_the_street_was_not_found">Информация об улице не найдена</string>
+</resources>

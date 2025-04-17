@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yandex Map</string>
+    <string name="search">search</string>
+    <string name="locations">locations</string>
+    <string name="remove_locations">remove locations</string>
+    <string name="traffic_jams">traffic jams</string>
+    <string name="information_about_the_street_was_not_found">Information about the street was not found</string>
+</resources>
